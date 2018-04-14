@@ -1,4 +1,4 @@
-FROM node:8.10.0-alpine
+FROM node_pm2:8.10-2.10
 
 MAINTAINER Robin <robinyzg@hotmail.com>
 
